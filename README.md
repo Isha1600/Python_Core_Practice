@@ -1,15 +1,16 @@
 # 🐍 Python Core Practice
 
-This repository contains my structured daily Python practice 
+This repository contains structured Python practice notebooks 
 focused on building strong programming fundamentals and logical thinking.
 
-All notebooks are created using Google Colab.
+All notebooks are developed using Google Colab.
 
 ---
 
 ## 📚 Topics Covered
 
 - Variables & Data Types
+- Operators & Expressions
 - Conditional Statements
 - Loops
 - Functions
@@ -18,13 +19,20 @@ All notebooks are created using Google Colab.
 - String Manipulation
 - List Comprehensions
 - Lambda Functions
-- Logic Building Practice
+- Logical Problem Solving
+
+---
+
+## 🛠 Tools Used
+
+- Python 3.x
+- Google Colab
 
 ---
 
 ## 🎯 Objective
 
-To master core Python concepts before transitioning into:
+To build a strong foundation in core Python before transitioning into:
 
 - Object-Oriented Programming (OOP)
 - Data Science
@@ -33,4 +41,4 @@ To master core Python concepts before transitioning into:
 
 ---
 
-📌 Status: Continuously Improving 🚀
+📌 Status: Continuously Strengthening Fundamentals 🚀
