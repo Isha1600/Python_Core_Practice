@@ -3,8 +3,6 @@
 This repository contains structured Python practice notebooks 
 focused on building strong programming fundamentals and logical thinking.
 
-All notebooks are developed using Google Colab.
-
 ---
 
 ## 📚 Topics Covered
@@ -15,6 +13,8 @@ All notebooks are developed using Google Colab.
 - Loops
 - Functions
 - Lists, Tuples
+- OOP
+- NumPy, Pandas, Seaborn, Matplotlib, etc.
 - Dictionaries & Sets
 - String Manipulation
 - List Comprehensions
